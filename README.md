@@ -1,6 +1,6 @@
 This is a README file for this repository. The dataset of thie repository is derived from https://zenodo.org/record/5777340#.Y7FJotJBwUE
 
-1.Specify a topic on which you'd like to work in the following weeks: Predict students' dropout in China.
+1.Specify a topic on which you'd like to work in the following weeks: Predict students' dropout.
 
 2.Provide some context for the topic, citing existing research (theoretical, interpretative, and/or empirical) that makes some testable claims: Student dropout is a critical factor in the education system that have long been studied by researchers. Dropout rates have significant negative consequences, including lost educational opportunities, decreased earning potential, and an increased likelihood of unemployment. In a study "Predicting students at risk of dropping out using administrative data: Case of primary and secondary schools in China" by Zhang and Zhou (2019), the researchers developed a predictive model to identify at-risk students in primary and secondary schools in China. The model incorporated a range of factors, including academic performance, behavior, and socio-economic status, and was found to be effective in predicting students at risk of dropping out.
 
